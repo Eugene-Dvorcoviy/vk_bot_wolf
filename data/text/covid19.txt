@@ -1,0 +1,185 @@
+Я не уместил всех стран на кнопки, поэтому даю тебе коды, введя которые ты узнаешь статистику в любой интересующей тебя стране:
+1. Afghanistan -- ?AF
+2. Albania -- ?AL
+3. Algeria -- ?DZ
+4. Andorra -- ?AD
+5. Angola -- ?AO
+6. Antigua and Barbuda -- ?AG
+7. Argentina -- ?AR
+8. Armenia -- ?AM
+9. Australia -- ?AU
+10. Austria -- ?AT
+11. Azerbaijan -- ?AZ
+12. Bahamas -- ?BS
+13. Bahrain -- ?BH
+14. Bangladesh -- ?BD
+15. Barbados -- ?BB
+16. Belarus -- ?BY
+17. Belgium -- ?BE
+18. Benin -- ?BJ
+19. Bhutan -- ?BT
+20. Bolivia -- ?BO
+21. Bosnia and Herzegovina -- ?BA
+22. Brazil -- ?BR
+23. Brunei -- ?BN
+24. Bulgaria -- ?BG
+25. Burkina Faso -- ?BF
+26. Cabo Verde -- ?CV
+27. Cambodia -- ?KH
+28. Cameroon -- ?CM
+29. Canada -- ?CA
+30. Central African Republic -- ?CF
+31. Chad -- ?TD
+32. Chile -- ?CL
+33. China -- ?CN
+34. Colombia -- ?CO
+35. Congo (Brazzaville) -- ?CG
+36. Congo (Kinshasa) -- ?CD
+37. Costa Rica -- ?CR
+38. Cote d'Ivoire -- ?CI
+39. Croatia -- ?HR
+40. Diamond Princess -- ?XX
+41. Cuba -- ?CU
+42. Cyprus -- ?CY
+43. Czechia -- ?CZ
+44. Denmark -- ?DK
+45. Djibouti -- ?DJ
+46. Dominican Republic -- ?DO
+47. Ecuador -- ?EC
+48. Egypt -- ?EG
+49. El Salvador -- ?SV
+50. Equatorial Guinea -- ?GQ
+51. Eritrea -- ?ER
+52. Estonia -- ?EE
+53. Eswatini -- ?SZ
+54. Ethiopia -- ?ET
+55. Fiji -- ?FJ
+56. Finland -- ?FI
+57. France -- ?FR
+58. Gabon -- ?GA
+59. Gambia -- ?GM
+60. Georgia -- ?GE
+61. Germany -- ?DE
+62. Ghana -- ?GH
+63. Greece -- ?GR
+64. Guatemala -- ?GT
+65. Guinea -- ?GN
+66. Guyana -- ?GY
+67. Haiti -- ?HT
+68. Holy See -- ?VA
+69. Honduras -- ?HN
+70. Hungary -- ?HU
+71. Iceland -- ?IS
+72. India -- ?IN
+73. Indonesia -- ?ID
+74. Iran -- ?IR
+75. Iraq -- ?IQ
+76. Ireland -- ?IE
+77. Israel -- ?IL
+78. Italy -- ?IT
+79. Jamaica -- ?JM
+80. Japan -- ?JP
+81. Jordan -- ?JO
+82. Kazakhstan -- ?KZ
+83. Kenya -- ?KE
+84. Korea, South -- ?KR
+85. Kuwait -- ?KW
+86. Kyrgyzstan -- ?KG
+87. Latvia -- ?LV
+88. Lebanon -- ?LB
+89. Liberia -- ?LR
+90. Liechtenstein -- ?LI
+91. Lithuania -- ?LT
+92. Luxembourg -- ?LU
+93. Madagascar -- ?MG
+94. Malaysia -- ?MY
+95. Maldives -- ?MV
+96. Malta -- ?MT
+97. Mauritania -- ?MR
+98. Mauritius -- ?MU
+99. Mexico -- ?MX
+100. Moldova -- ?MD
+101. Monaco -- ?MC
+102. Mongolia -- ?MN
+103. Montenegro -- ?ME
+104. Morocco -- ?MA
+105. Namibia -- ?NA
+106. Nepal -- ?NP
+107. Netherlands -- ?NL
+108. New Zealand -- ?NZ
+109. Nicaragua -- ?NI
+110. Niger -- ?NE
+111. Nigeria -- ?NG
+112. North Macedonia -- ?MK
+113. Norway -- ?NO
+114. Oman -- ?OM
+115. Pakistan -- ?PK
+116. Panama -- ?PA
+117. Papua New Guinea -- ?PG
+118. Paraguay -- ?PY
+119. Peru -- ?PE
+120. Philippines -- ?PH
+121. Poland -- ?PL
+122. Portugal -- ?PT
+123. Qatar -- ?QA
+124. Romania -- ?RO
+125. Russia -- ?RU
+126. Rwanda -- ?RW
+127. Saint Lucia -- ?LC
+128. Saint Vincent and the Grenadines -- ?VC
+129. San Marino -- ?SM
+130. Saudi Arabia -- ?SA
+131. Senegal -- ?SN
+132. Serbia -- ?RS
+133. Seychelles -- ?SC
+134. Singapore -- ?SG
+135. Slovakia -- ?SK
+136. Slovenia -- ?SI
+137. Somalia -- ?SO
+138. South Africa -- ?ZA
+139. Spain -- ?ES
+140. Sri Lanka -- ?LK
+141. Sudan -- ?SD
+142. Suriname -- ?SR
+143. Sweden -- ?SE
+144. Switzerland -- ?CH
+145. Taiwan* -- ?TW
+146. Tanzania -- ?TZ
+147. Thailand -- ?TH
+148. Togo -- ?TG
+149. Trinidad and Tobago -- ?TT
+150. Tunisia -- ?TN
+151. Turkey -- ?TR
+152. Uganda -- ?UG
+153. Ukraine -- ?UA
+154. United Arab Emirates -- ?AE
+155. United Kingdom -- ?GB
+156. Uruguay -- ?UY
+157. US -- ?US
+158. Uzbekistan -- ?UZ
+159. Venezuela -- ?VE
+160. Vietnam -- ?VN
+161. Zambia -- ?ZM
+162. Zimbabwe -- ?ZW
+163. Dominica -- ?DM
+164. Grenada -- ?GD
+165. Mozambique -- ?MZ
+166. Syria -- ?SY
+167. Timor-Leste -- ?TL
+168. Belize -- ?BZ
+169. Laos -- ?LA
+170. Libya -- ?LY
+171. West Bank and Gaza -- ?PS
+172. Guinea-Bissau -- ?GW
+173. Mali -- ?ML
+174. Saint Kitts and Nevis -- ?KN
+175. Kosovo -- ?XK
+176. Burma -- ?MM
+177. Botswana -- ?BW
+178. Burundi -- ?BI
+179. Sierra Leone -- ?SL
+180. Malawi -- ?MW
+181. South Sudan -- ?SS
+182. Western Sahara -- ?EH
+183. Sao Tome and Principe -- ?ST
+184. Yemen -- ?YE
