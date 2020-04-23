@@ -23,10 +23,11 @@ class Covid19:
         date = update.split('T')[0]
         time = update.split('T')[1].split('.')[0]
         population = int(location[0]["country_population"])
+        procent = int((confirmed / population * 100) * 100000) / 100000
 
         return "Данные по стране Россия:\nПоследнее обновление: {}, {}\nЗаражённых: {}" \
                "\nУмерло: {}\n%зараженных: {}%".format(date.replace("-", "."), time, confirmed, deaths,
-                                                       confirmed / population * 100)
+                                                       procent)
 
     def check_in_the_usa(self):
         location = self.covid19.getLocationByCountryCode("US")
@@ -36,10 +37,11 @@ class Covid19:
         date = update.split('T')[0]
         time = update.split('T')[1].split('.')[0]
         population = int(location[0]["country_population"])
+        procent = int((confirmed / population * 100) * 100000) / 100000
 
         return "Данные по стране США:\nПоследнее обновление: {}, {}\nЗаражённых: {}" \
                "\nУмерло: {}\n%зараженных: {}%".format(date.replace("-", "."), time, confirmed, deaths,
-                                                       confirmed / population * 100)
+                                                       procent)
 
     def covid_in_different_country(self, kod):
         country_cod = kod[1:].upper()
@@ -52,9 +54,10 @@ class Covid19:
         time = update.split('T')[1].split('.')[0]
         population = int(location[0]["country_population"])
         country = location[0]["country"]
+        procent = int((confirmed / population * 100) * 100000) / 100000
 
         return "Данные по стране {}:\nПоследнее обновление: {}, {}\nЗаражённых: {}" \
-               "\nУмерло: {}\n%зараженных: {}%".format(country, date.replace("-", "."), time, confirmed, deaths,
-                                                       confirmed / population * 100)
+               "\nУмерло: {}\n% зараженных: \n{}%".format(country, date.replace("-", "."), time, confirmed, deaths,
+                                                       procent)
 
 
