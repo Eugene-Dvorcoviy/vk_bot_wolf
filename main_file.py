@@ -1,3 +1,6 @@
+#!/usr/bin/python3
+# -*- coding: utf-8 -*-
+
 import vk_api
 from vk_api.bot_longpoll import VkBotLongPoll, VkBotEventType
 import random
@@ -7,6 +10,8 @@ import keyboards
 import datetime
 from course import Dollar, Hryvnia, Euro, Pound, Yuan, Bitcoin
 from covid import Covid19
+import sys
+
 
 month = {'1': 'января', '2': 'февраля', '3': 'марта', '4': 'апреля', '5': 'мая', '6': "июня", '7': 'июля',
          '8': 'августа', '9': 'сентября', '10': "октября", "11": "ноября", "12": "декабря"}
@@ -267,6 +272,4 @@ def begining(event):
                          random_id=random.randint(0, 2 ** 64), keyboard=keyboard)
     return
 
-
-if __name__ == '__main__':
-    main()
+main()

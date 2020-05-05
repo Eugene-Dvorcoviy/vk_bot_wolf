@@ -7,3 +7,5 @@ COVID_MORE_COUNTRIES = open('data/text/covid19.txt', 'r').read()
 ID = '194219629'
 
 GREETING = "Добро пожаловать, {}!\nЯ - Волчара, бот, который не выступает в цирке."
+
+WEATHER_API = '1118ca45aaf6e58f9cc6ad2d31c6fb0d'
