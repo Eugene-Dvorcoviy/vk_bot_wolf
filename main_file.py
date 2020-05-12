@@ -263,7 +263,7 @@ def begining(event):
     if event.type == VkBotEventType.GROUP_JOIN:
         name = vk.users.get(user_id=event.obj.user_id)[0]['first_name']
         vk.messages.send(user_id=event.obj.user_id,
-                         message="Добро пожаловать, {}!\nЯ - Волчара, бот, который не выступает в цирке.1".format(name),
+                         message="Добро пожаловать, {}!\nЯ - Волчара, бот, который не выступает в цирке.".format(name),
                          random_id=random.randint(0, 2 ** 64), keyboard=keyboard)
     if event.type == VkBotEventType.MESSAGE_NEW:
         name = vk.users.get(user_id=event.obj.message['from_id'])[0]['first_name']
